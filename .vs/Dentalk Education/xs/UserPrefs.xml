@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{6A28948F-9C9F-EB72-3AC9-6DEFA603DD32}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Details.cs">
+    <Files>
+      <File FileName="Assets/SplashScreen.cs" Line="16" Column="1" />
+      <File FileName="Assets/Scripts/Rotator.cs" />
+      <File FileName="Assets/Scripts/RotatorMouse.cs" />
+      <File FileName="Assets/Menu.cs" Line="41" Column="2" />
+      <File FileName="Assets/Scripts 1/DentalIssue.cs" Line="13" Column="2" />
+      <File FileName="Assets/Scripts 1/DentalIssueDatabase.cs" Line="33" Column="28" />
+      <File FileName="Assets/Details.cs" Line="40" Column="54" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6b264f8b-8a5e-49c2-ae59-244fc5d88c7b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

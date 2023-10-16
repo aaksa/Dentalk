@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="KariesAnakDuaTahun" size="1.000000 0.613734" />
+    <ImageTarget name="KariesAnakEmpatTahun" size="1.000000 0.613734" />
+    <ImageTarget name="KariesInisiasi" size="1.000000 0.613734" />
+    <ImageTarget name="KariesOklusalGigiGeraham" size="1.000000 0.613734" />
+    <ImageTarget name="KariesOklusall" size="1.000000 0.613734" />
+    <ImageTarget name="KariesPalatal" size="1.000000 0.613734" />
+    <ImageTarget name="KariesPalatalGigiSeri" size="1.000000 0.613734" />
+    <ImageTarget name="KariesTahapDua" size="1.000000 0.613734" />
+    <ImageTarget name="KariesTahapTiga" size="1.000000 0.613734" />
+    <ImageTarget name="Sehat" size="1.000000 0.613734" />
+  </Tracking>
+</QCARConfig>

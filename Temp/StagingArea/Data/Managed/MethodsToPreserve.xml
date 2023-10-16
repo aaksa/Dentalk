@@ -1,0 +1,20 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="Menu">
+			<method name="BackKamera"/>
+			<method name="BackMenu"/>
+			<method name="Detail"/>
+			<method name="Detail"/>
+			<method name="Detail"/>
+			<method name="Detail"/>
+			<method name="Detail"/>
+			<method name="Detail"/>
+			<method name="Detail"/>
+			<method name="Detail"/>
+			<method name="Detail"/>
+			<method name="Detail"/>
+			<method name="Kamera"/>
+			<method name="Kamera"/>
+		</type>
+	</assembly>
+</linker>
